@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Json To List</string>
+    <string name="woops">Woops! Somethings goes wrong</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="name">Name: </string>
+    <string name="tagline">Tagline: </string>
+    <string name="rating">Rating</string>
+</resources>

@@ -1,0 +1,32 @@
+[
+    {
+      "name" : "Yellow Chair",
+      "tagline" : "Great if you like yellow!",
+      "rating" : 3,
+      "date" : "1-15-2018"
+    },
+    {
+      "name" : "Blue Table",
+      "tagline" : "Interesting choice for interesting people.",
+      "rating" : 5,
+      "date" : "1-14-2018"
+    },
+    {
+      "name" : "Pink Lamp",
+      "tagline" : "Very bold!",
+      "rating" : 2.1,
+      "date" : "1-13-2018"
+    },
+    {
+      "name" : "Red Stand",
+      "tagline" : "Stylish and chic.",
+      "rating" : 3.7,
+      "date" : "1-12-2018"
+    },
+    {
+      "name" : "Wood Desk",
+      "tagline" : "Timeless and classic.",
+      "rating" : 1,
+      "date" : "1-11-2018"
+    }
+]
